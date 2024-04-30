@@ -1,0 +1,1 @@
+execute as @a at @s if predicate camouflage:ingrass run effect give @s invisibility 1 1 true
